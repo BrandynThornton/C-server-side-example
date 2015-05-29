@@ -36,9 +36,8 @@
     <Reference Include="bouncy_castle_hmac_sha_pcl">
       <HintPath>packages\BouncyCastle-PCL.1.0.0.4\lib\bouncy_castle_hmac_sha_pcl.dll</HintPath>
     </Reference>
-    <Reference Include="CrownPeakPublic, Version=1.0.0.4, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>packages\CrownPeakPublic.1.0.0.7\lib\portable-net40+sl50+win+wpa81+wp80\CrownPeakPublic.dll</HintPath>
+    <Reference Include="CrownPeakPublic">
+      <HintPath>packages\CrownPeakPublic.AccessAPI-PCL.1.0.0.5\lib\portable-net40+sl50+win+wpa81\CrownPeakPublic.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Threading.Tasks">
       <HintPath>packages\Microsoft.Bcl.Async.1.0.165\lib\net45\Microsoft.Threading.Tasks.dll</HintPath>
